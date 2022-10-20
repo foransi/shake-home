@@ -1,3 +1,7 @@
 # shake-home
 
-test
+For simple testing and development:
+
+```bash
+npx http-server
+```
